@@ -1,6 +1,8 @@
 # mongodb-guide
 
-![公众号](https://img.shields.io/badge/公众号-CodeArtist9-blue.svg)![许可证](https://img.shields.io/badge/许可证-MIT-orange.svg)![MongoDB 4.4.16](https://img.shields.io/badge/MongoDB-4.4.16-brightgreen.svg)
+![公众号](https://img.shields.io/badge/公众号-CodeArtist9-blue.svg)
+![许可证](https://img.shields.io/badge/许可证-MIT-orange.svg)
+![MongoDB 4.4.16](https://img.shields.io/badge/MongoDB-4.4.16-brightgreen.svg)
 
 ## 项目介绍
 
